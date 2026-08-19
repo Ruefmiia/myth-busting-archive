@@ -12,6 +12,11 @@
 - [PS004｜“男团因为三塔的男团梦才成立”](articles/PS004.md)
 - [PS005｜“抢别人角色？太子爷？”](articles/PS005.md)
 - [PS006｜“采访时三塔挤包包”](articles/PS006.md)
+- [PS007｜“同款匡威鞋造谣恋情”](articles/PS007.md)
+- [PS008｜“杂志花艺造型相似造谣恋情”](articles/PS008.md)
+- [PS009｜“生日蛋糕与非洲菊造谣恋情”](articles/PS009.md)
+- [PS010｜“考艾同游造谣恋情”](articles/PS010.md)
+- [PS011｜“活动后同乘电梯造谣恋情”](articles/PS011.md)
 
 ## 阅读
 
